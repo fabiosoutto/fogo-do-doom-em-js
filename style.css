@@ -28,11 +28,12 @@ td {
 }
 
 td.pixel {
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     border: 0;
 }
 
 footer {
     color: white;
+    padding-left: 60px;
 }
